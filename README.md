@@ -1,6 +1,5 @@
-![Banner Personal](https://github.com/MCRLogPose/MCRLogPose/issues/1#issue-2868135226)
 <p align="center">
-  <img src="https://github.com/MCRLogPose/MCRLogPose/issues/1#issue-2868135226" height="200"/>
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <h1 align="center"><b>Hi , I'm Edwin Cruz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
@@ -49,7 +48,7 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
+![Banner Personal](https://github.com/MCRLogPose/MCRLogPose/issues/1#issue-2868135226)
 <br>
 
 - **Data Bases and Cloud Hosting**:
