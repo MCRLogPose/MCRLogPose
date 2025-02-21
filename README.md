@@ -112,27 +112,10 @@
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
-<div align='left'>
 
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/edwin-manuel-cruz-rivera/" target="_blank">
-<img alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/linkedin.svg"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:cruzriveraedwinmanuel@gmail.com" target="_blank">
-<img alt="Gmail" width="22px" src="https://img.shields.io/badge/gmail"/>
-</a>
-</li>
-	
-</ul>
-</div>
-
+<p align="center">
+	&nbsp; <a href="https://www.linkedin.com/in/edwin-manuel-cruz-rivera/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+	&nbsp; <a href="mailto:cruzriveraedwinmanuel@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
 <br>
