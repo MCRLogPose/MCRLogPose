@@ -1,6 +1,6 @@
 <p align="center">
 	
-  ![Image](https://github.com/user-attachments/assets/761f7ba7-2b4d-4e44-bf2e-b83fa17c4151)
+  <img src="https://github.com/user-attachments/assets/761f7ba7-2b4d-4e44-bf2e-b83fa17c4151" height="200"/>
 	
 </p>
 
