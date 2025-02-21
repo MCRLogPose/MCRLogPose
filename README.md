@@ -143,6 +143,7 @@
 <br>
 
 ## <b> ⚙️ &nbsp;GitHub Analytics</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
 
 <p align="center">
 <a href="https://github.com/AVS1508">
