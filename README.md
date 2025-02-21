@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
+![Image](https://github.com/user-attachments/assets/761f7ba7-2b4d-4e44-bf2e-b83fa17c4151)
 <h1 align="center"><b>Hi , I'm Edwin Cruz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
