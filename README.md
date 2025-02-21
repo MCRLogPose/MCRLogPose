@@ -160,7 +160,7 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <br>Gracias por llegar hasta aqui...✨</br>
 
 </div>
 <br>
