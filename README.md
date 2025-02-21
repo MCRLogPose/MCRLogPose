@@ -126,7 +126,7 @@
 
 <li>
 <a href="mailto:cruzriveraedwinmanuel@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Edwin_Cruz-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img alt="Gmail" width="22px" src="https://img.shields.io/badge/gmail"/>
 </a>
 </li>
 	
