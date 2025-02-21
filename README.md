@@ -1,4 +1,4 @@
-![Web-developer](https://github.com/MCRLogPose/MCRLogPose/issues/1#issue-2868135226)
+![Imagen](https://github.com/MCRLogPose/MCRLogPose/issues/1#issue-2868135226)
 <h1 align="center"><b>Hi , I'm Edwin Cruz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
