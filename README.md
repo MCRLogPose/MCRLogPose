@@ -10,7 +10,7 @@
 
 
 	
-## <picture><img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width = 30px></picture> **About me**
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 250px></picture>
 
