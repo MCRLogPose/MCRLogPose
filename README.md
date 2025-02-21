@@ -118,7 +118,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/edwin-manuel-cruz-rivera/" target="_blank">
-<img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/linkedin.svg"/>
+<img alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/linkedin.svg"/>
 </a>
 </li>
 
@@ -126,7 +126,7 @@
 
 <li>
 <a href="mailto:cruzriveraedwinmanuel@gmail.com" target="_blank">
-<img alt="Linkedin" width="22px" src="https://img.shields.io/badge/gmail:  Edwin_Cruz-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Edwin_Cruz-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
