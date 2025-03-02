@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hi , I'm Edwin Cruz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-	
-  <img src="https://github.com/user-attachments/assets/761f7ba7-2b4d-4e44-bf2e-b83fa17c4151" height="auto" width=800px max-width="100%"/>
+
+  <img src="https://github.com/user-attachments/assets/22fd7f37-6879-4a25-875c-e426273bdc70" height="auto" width=800px max-width="100%"/>
 	
 </p>
 
