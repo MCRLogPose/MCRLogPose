@@ -20,7 +20,7 @@
 	
 ## <picture><img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width = 30px></picture> **About me**
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width = 250px></picture>
 
 <br>
 
@@ -35,56 +35,69 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Skills
 
 <p align="center">
 
+<br>
+
 - **Languages**:
     
-    ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![JAVA](https://img.icons8.com/?size=40&id=GPfHz0SM85FX&format=png&color=000000)
+    ![C++](https://img.icons8.com/?size=40&id=40669&format=png&color=000000)
+    ![Python](https://img.icons8.com/?size=40&id=Rc0Xn5AtE8kX&format=png&color=000000)
 
-<br>   
+  <br>
     
 - **Front-End Development**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![HTML5](https://img.icons8.com/color/40/000000/html-5--v1.png)
+   ![CSS3](https://img.icons8.com/color/40/000000/css3.png)
+   ![JavaScript](https://img.icons8.com/color/40/000000/javascript--v1.png)
+
 <br>
 
 - **Data Bases and Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-    ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=java&logoColor=white)
-    
+    ![MySQL](https://img.icons8.com/?size=40&id=QeIg9siFKGgp&format=png&color=000000)
+    ![SQLServer](https://img.icons8.com/?size=40&id=laYYF3dV0Iew&format=png&color=000000)
+	![PostgreSQl](https://img.icons8.com/?size=40&id=38561&format=png&color=000000)
+
 <br>
 
 - **Softwares and Tools**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-    ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-    ![Figma](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-    ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+    ![Git](https://img.icons8.com/?size=40&id=20906&format=png&color=000000)
+    ![Visual Studio Code](https://img.icons8.com/?size=40&id=0OQR1FYCuA9f&format=png&color=000000)
+    ![IntellijIdea](https://img.icons8.com/?size=40&id=61466&format=png&color=000000)
+    ![Apache Maven](https://img.icons8.com/?size=40&id=jfjmkTUFX5Vf&format=png&color=000000)
+    ![Figma](https://img.icons8.com/?size=40&id=zfHRZ6i1Wg0U&format=png&color=000000)
+    ![Stack Overflow](https://img.icons8.com/?size=40&id=13955&format=png&color=000000)
 
 <br>
 
 - **Frameworks**:
 
-    ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+    ![Bootstrap](https://img.icons8.com/?size=40&id=PndQWK6M1Hjo&format=png&color=000000)
+	![Tailwind css](https://img.icons8.com/?size=40&id=4PiNHtUJVbLs&format=png&color=000000)
+	![React](https://img.icons8.com/?size=40&id=123603&format=png&color=000000)
+	![Spring Boot](https://img.icons8.com/?size=40&id=90519&format=png&color=000000)
 
+<br>
+
+- **Platforms Backend as a Service (BaaS**:
+
+    ![Firebase](https://img.icons8.com/color/40/000000/firebase.png)
+	
 <br>
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+    ![Terminal](https://img.icons8.com/?size=40&id=fuoa9FdsV6E6&format=png&color=000000)
+    ![Linux Ubuntu](https://img.icons8.com/?size=40&id=63208&format=png&color=000000)
+	![npm](https://img.icons8.com/color/40/000000/npm.png)
+	![expo](https://img.icons8.com/?size=40&id=hmieDPifBlBM&format=png&color=000000)
 
 </p>
 
@@ -99,10 +112,12 @@
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 
-<p align="center">
-	&nbsp; <a href="https://www.linkedin.com/in/edwin-manuel-cruz-rivera/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-	&nbsp; <a href="mailto:cruzriveraedwinmanuel@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/)
+[![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97)
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@edwin-manuel-cruz-rivera")](https://www.linkedin.com/in/edwin-manuel-cruz-rivera/)
+[![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije)
+[![@983089916](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@983089916")](tel:983089916)
+[![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](mailto:cruzriveraedwinmanuel@gmail.com)
 
 <br>
 <br>
